@@ -1,0 +1,3 @@
+[submodule "diary-template-generator"]
+	path = diary-template-generator
+	url = https://github.com/toof-jp/diary-template-generator
