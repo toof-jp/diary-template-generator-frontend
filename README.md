@@ -1,0 +1,1 @@
+# diary-template-generator-frontend
